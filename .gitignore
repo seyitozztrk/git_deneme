@@ -1,0 +1,17 @@
+# txt uzantılı dosyalar 
+
+# txt
+*.txt
+password.txt
+
+# log 
+*.log
+
+# img
+*.png
+
+# videos
+*.mp4
+
+#packages
+

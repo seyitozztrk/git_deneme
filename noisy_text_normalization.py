@@ -3,10 +3,11 @@
 # Documentation: https://bit.ly/2WkUVVF
 # Java Code Example: https://bit.ly/31Qi9Ew
 """
-from jpype import JClass, JString
-
+from jpype import JClass, JStringsadsad
+#ggggggggeeeggg
+#tıstıs
 from examples import DATA_PATH
-
+#mmmm
 TurkishMorphology: JClass = JClass('zemberek.morphology.TurkishMorphology')
 TurkishSentenceNormalizer: JClass = JClass(
     'zemberek.normalization.TurkishSentenceNormalizer'
